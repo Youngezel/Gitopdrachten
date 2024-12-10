@@ -8,6 +8,7 @@ namespace testvoorgit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Dit is de nieuwe regel");
+            Console.WriteLine("Dit is de regel voor de eindopdracht");
         }
     }
 }
