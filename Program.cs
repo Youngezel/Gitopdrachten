@@ -7,6 +7,7 @@ namespace testvoorgit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Dit is de nieuwe regel");
         }
     }
 }
